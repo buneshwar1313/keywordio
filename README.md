@@ -4,7 +4,7 @@ django rest api
 
 # api
 ## Registration api
-api: 127.0.0.1:8000/api/register/
+api: 127.0.0.1:8000/api/register/ <br />
 request Type : Post 
 
 ##  Login api
