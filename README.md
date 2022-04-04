@@ -8,20 +8,20 @@ api: 127.0.0.1:8000/api/register/ <br />
 request Type : Post 
 
 ##  Login api
-api 127.0.0.1:8000/api/Login/
+api 127.0.0.1:8000/api/Login/ <br />
 request Type : get 
 token created 
 
 ## Logout api 
-api 127.0.0.1:8000/api/Logout/
+api 127.0.0.1:8000/api/Logout/ <br />
 request Type : get
 
-## Get List of all books and create Books
-api : 127.0.0.1:8000/api/book/
+## Get List of all books and create Books 
+api : 127.0.0.1:8000/api/book/ <br />
 request Type : get & post 
 
-## Update , Delete , Put for all Books
-api: 127.0.01:800/api/book/<int:id>/
+## Update , Delete , Put for all Books 
+api: 127.0.01:800/api/book/<int:id>/ <br />
 request Type : update , put , delete 
 
 
